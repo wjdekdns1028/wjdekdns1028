@@ -1,10 +1,10 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eda5ee,100:8d94f7&height=240&text=Daun's%20world&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eda5ee,100:8d94f7&height=240&text=Daun's%20world&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-  <div  align= "center"> 
+  <div align="center">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -18,7 +18,7 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-  <div align= "center"> 
+  <div align="center">
     <a href="https://velog.io/@daun_jung/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
@@ -29,28 +29,28 @@
   <br> 
 </div>
 
-<!-- 🚀 Projects Section -->
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
+  <br>
+
   <div align="center">
 
-    <!-- Project 1: Cheongsanghoe -->
     <a href="https://github.com/wjdekdns1028/cheongsanghoe" target="_blank">
       <img src="https://github.com/wjdekdns1028/cheongsanghoe/blob/main/assets/cheongsanghoe-thumbnail.png" width="400px" alt="Cheongsanghoe Project Thumbnail"><br>
       <b>🤝 Cheongsanghoe</b><br>
       <sub>지역 소상공인과 대학생을 연결하는 청년 상생 플랫폼</sub>
     </a>
+
     <br><br>
 
-    <!-- Project 2: LivingMate -->
     <a href="https://github.com/wjdekdns1028/livingmate" target="_blank">
       <img src="https://github.com/wjdekdns1028/livingmate/blob/main/assets/livingmate-thumbnail.png" width="400px" alt="LivingMate Project Thumbnail"><br>
       <b>🏠 LivingMate</b><br>
       <sub>언어 교류 기반의 소셜 플랫폼, AI 발음 평가와 모임 매칭 기능 제공</sub>
     </a>
+
     <br><br>
 
-    <!-- Project 3: Seoulmete -->
     <a href="https://github.com/wjdekdns1028/seoulmete" target="_blank">
       <img src="https://github.com/wjdekdns1028/seoulmete/blob/main/assets/seoulmete-thumbnail.png" width="400px" alt="Seoulmete Project Thumbnail"><br>
       <b>🌏 Seoulmete</b><br>
