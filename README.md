@@ -35,27 +35,25 @@
 
   <div align="center">
 
-    <a href="https://github.com/wjdekdns1028/cheongsanghoe" target="_blank">
-      <img src="https://github.com/wjdekdns1028/cheongsanghoe/blob/main/assets/cheongsanghoe-thumbnail.png" width="400px" alt="Cheongsanghoe Project Thumbnail"><br>
-      <b>🤝 Cheongsanghoe</b><br>
-      <sub>지역 소상공인과 대학생을 연결하는 청년 상생 플랫폼</sub>
+<!-- Project 3: Seoulmate -->
+    <a href="https://github.com/seoulmate7" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=seoulmate7&repo=seoulmate7&theme=tokyonight" />
     </a>
 
     <br><br>
 
-    <a href="https://github.com/wjdekdns1028/livingmate" target="_blank">
-      <img src="https://github.com/wjdekdns1028/livingmate/blob/main/assets/livingmate-thumbnail.png" width="400px" alt="LivingMate Project Thumbnail"><br>
-      <b>🏠 LivingMate</b><br>
-      <sub>언어 교류 기반의 소셜 플랫폼, AI 발음 평가와 모임 매칭 기능 제공</sub>
+    <!-- Project 2: LivingMate -->
+    <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_73_BE" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_73_BE&theme=tokyonight" />
     </a>
 
     <br><br>
 
-    <a href="https://github.com/wjdekdns1028/seoulmete" target="_blank">
-      <img src="https://github.com/wjdekdns1028/seoulmete/blob/main/assets/seoulmete-thumbnail.png" width="400px" alt="Seoulmete Project Thumbnail"><br>
-      <b>🌏 Seoulmete</b><br>
-      <sub>외국인 유학생과 서울 시민을 연결하는 글로벌 교류 플랫폼</sub>
+    <!-- Project 1: 청상회 -->
+    <a href="https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM04-BE" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-13th-SKHU&repo=LikeLion-13th-TEAM04-BE&theme=tokyonight" />
     </a>
+
 
   </div>
 </div>
