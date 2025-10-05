@@ -33,23 +33,23 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
   <br>
 
-  <div align="center">
-
-    <a href="https://github.com/seoulmate7" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=seoulmate7&repo=seoulmate7&theme=tokyonight" />
-    </a>
-
-    <br><br>
-
-    <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_73_BE" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_73_BE&theme=tokyonight" />
-    </a>
-
-    <br><br>
-
-    <a href="https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM04-BE" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-13th-SKHU&repo=LikeLion-13th-TEAM04-BE&theme=tokyonight" />
-    </a>
-
-  </div>
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/seoulmate7" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seoulmate7&repo=seoulmate7&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_73_BE" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_73_BE&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM04-BE" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-13th-SKHU&repo=LikeLion-13th-TEAM04-BE&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
