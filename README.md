@@ -35,25 +35,21 @@
 
   <div align="center">
 
-<!-- Project 3: Seoulmate -->
     <a href="https://github.com/seoulmate7" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=seoulmate7&repo=seoulmate7&theme=tokyonight" />
     </a>
 
     <br><br>
 
-    <!-- Project 2: LivingMate -->
     <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_73_BE" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_73_BE&theme=tokyonight" />
     </a>
 
     <br><br>
 
-    <!-- Project 1: 청상회 -->
     <a href="https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM04-BE" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LikeLion-13th-SKHU&repo=LikeLion-13th-TEAM04-BE&theme=tokyonight" />
     </a>
-
 
   </div>
 </div>
